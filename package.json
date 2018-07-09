@@ -1,0 +1,21 @@
+{
+  "name": "itunes_discord",
+  "version": "1.0.0",
+  "description": "discord rich presence for itunes",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "discord-rich-presence": "^0.0.6",
+    "electron": "^1.8.4",
+    "electron-builder": "^20.6.2",
+    "menubar": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
